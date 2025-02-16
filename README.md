@@ -55,3 +55,16 @@ EXPERIMENT:
 
 Aim: To find Id of given n-channel MOSFET and also vary width od MOSFET and check how that effects the current in the amplifier circuit. 
 
+
+![image](https://github.com/user-attachments/assets/5ae705ef-4bae-4801-8349-f8078a862cba)
+
+
+
+SPECIFICATIONS
+
+LENGTH:180NM
+WIDTH:50U
+TYPE:n-CHANNEL MOSFET
+
+
+
