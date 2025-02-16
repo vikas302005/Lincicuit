@@ -64,7 +64,7 @@ SPECIFICATIONS
 
 LENGTH:180nm
 
-WIDTH:50u
+WIDTH:1u
 
 TYPE:n-CHANNEL MOSFET
 
@@ -73,10 +73,11 @@ TYPE:n-CHANNEL MOSFET
 DC ANALYSIS:
 
 case 1:
-![50u](https://github.com/user-attachments/assets/b0fe5c67-3f48-493c-9e24-9c2f4245069f)
+![image](https://github.com/user-attachments/assets/b7ec812c-b7ef-45c4-b12e-80d3f95d13d0)
 
 case 2:
-![100u](https://github.com/user-attachments/assets/65dad619-e0bb-40e7-907a-f678947bb200)
+![image](https://github.com/user-attachments/assets/37b179f4-2377-492d-b665-f578192d743b)
+
 
 INFERENCE: 
 
@@ -107,6 +108,22 @@ Conclusion:
 • The MOSFET is being used as an amplifier, but due to the narrow channel length of 180 nm, its gain can be affecting, and that's why its drain voltage amplitude is reduced.
 
 • The signal at the drain is smaller than the signal at the gate, which indicates the circuit could do with by increasing width of the transistor or biasing conditions) so the gain improves.
+
+Transient Analysis:
+
+![image](https://github.com/user-attachments/assets/358f6b24-270d-46f0-91a1-13174667683d)
+
+![image](https://github.com/user-attachments/assets/7d766d2d-753c-4222-b618-9ff3167e8f4a)
+
+
+
+
+
+
+
+
+
+
 
 
 
