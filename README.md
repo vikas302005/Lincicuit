@@ -73,10 +73,12 @@ TYPE:n-CHANNEL MOSFET
 DC ANALYSIS:
 
 case 1:
-![image](https://github.com/user-attachments/assets/b7ec812c-b7ef-45c4-b12e-80d3f95d13d0)
+![WhatsApp Image 2025-02-16 at 23 12 30_c4b478df](https://github.com/user-attachments/assets/da1bd67f-a17b-4d04-9ee0-621c509cf105)
+
 
 case 2:
-![image](https://github.com/user-attachments/assets/37b179f4-2377-492d-b665-f578192d743b)
+![WhatsApp Image 2025-02-16 at 23 12 30_7aa114b9](https://github.com/user-attachments/assets/9ee0c5d7-8461-4c1a-9eb6-51c102bb12a4)
+
 
 
 INFERENCE: 
@@ -115,7 +117,13 @@ Transient Analysis:
 
 ![image](https://github.com/user-attachments/assets/7d766d2d-753c-4222-b618-9ff3167e8f4a)
 
+INFERENCE:
 
+Output voltage is inverted and amplified, because Id increases as gate coltage increases causing voltage drop across Rd.
+
+waveform is smooth indecating low distortion and linear amplification, because there is no channel length modulation.
+
+180 degree phase shift between input and output, because increase in gate voltahe decreases drain voltahe invertin the output.
 
 
 
