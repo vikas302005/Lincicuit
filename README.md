@@ -1,4 +1,4 @@
-# Lincicuit
+# Lincircuit
 Linear integrated circuit design and simulation.
 
 INTRODUCTION:
