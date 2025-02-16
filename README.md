@@ -113,9 +113,13 @@ Conclusion:
 
 Transient Analysis:
 
-![image](https://github.com/user-attachments/assets/358f6b24-270d-46f0-91a1-13174667683d)
+![image](https://github.com/user-attachments/assets/93777c89-6401-4307-8f78-e4212998bd7e)
 
-![image](https://github.com/user-attachments/assets/7d766d2d-753c-4222-b618-9ff3167e8f4a)
+![image](https://github.com/user-attachments/assets/fb2247fb-7c03-486c-81ac-ada5bd894311)
+
+
+![image](https://github.com/user-attachments/assets/8f735e75-a719-4c15-8556-7e61d4dc28e0)
+
 
 INFERENCE:
 
