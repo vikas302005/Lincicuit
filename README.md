@@ -89,15 +89,23 @@ AC Analysis:
 ![ac2](https://github.com/user-attachments/assets/049720a0-fbbf-4a18-a417-e5b90b3d4c2d)
 
 1. Gate Voltage (First Image):
+
 • The gate waveform has a larger amplitude, signifying that the input signal is correctly being input into the MOSFET.
+
 • This also indicates that there is little or no attenuation in the gate terminal, as anticipated because it's being driven by the input source directly.
+
 2. Drain Voltage (Second Image):
+   
 • The drain voltage waveform has a considerably smaller amplitude compared to the gate voltage.
+
 •	That the MOSFET is not offering a lot of gain, possibly as a result of the short channel length (180 nm), which can cause short-channel effects that lower the transistor's amplifying ability.
+
 •	The reduction in amplitude also points towards high output impedance or lesser transconductance, which impinges on signal strength at the drain.
 
 Conclusion: 
+
 • The MOSFET is being used as an amplifier, but due to the narrow channel length of 180 nm, its gain can be affecting, and that's why its drain voltage amplitude is reduced.
+
 • The signal at the drain is smaller than the signal at the gate, which indicates the circuit could do with by increasing width of the transistor or biasing conditions) so the gain improves.
 
 
