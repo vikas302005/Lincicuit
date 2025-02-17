@@ -132,7 +132,7 @@ waveform is smooth indecating low distortion and linear amplification, because t
 QUESTION 2:
 
 
-![dc](https://github.com/user-attachments/assets/ea364bfb-6ff9-4a15-b4ec-bd805b50009d)
+![WhatsApp Image 2025-02-18 at 00 06 02_74e61df8](https://github.com/user-attachments/assets/97a82f71-9f13-4f72-9ab0-865f2247fe46)
 
 
 
