@@ -129,13 +129,23 @@ waveform is smooth indecating low distortion and linear amplification, because t
 
 180 degree phase shift between input and output, because increase in gate voltahe decreases drain voltahe invertin the output.
 
+QUESTION 2:
+
+
+![dc](https://github.com/user-attachments/assets/ea364bfb-6ff9-4a15-b4ec-bd805b50009d)
 
 
 
+![ac](https://github.com/user-attachments/assets/eec89787-510c-4cc7-a33a-babf53ecf2df)
 
 
+This LTspice simulation features a CMOS inverter utilizing TSMC 180nm technology with M1 (NMOS) and M2 (PMOS) transistors. The circuit operates with a 1.8V supply (V3), and the input signal (V2) is a 0.9V DC sinusoidal wave with a 50mV amplitude at 1kHz. The transient response shows an inverted output waveform (Vout, green) but with limited voltage swing, suggesting weak drive strength or incorrect transistor sizing. Although the input signal (red) is correctly applied, the output doesn't fully switch between 0V and 1.8V, likely due to the low input swing. Enhancing the W/L ratio for transistors or increasing the input voltage swing would improve performance, resulting in a sharper rail-to-rail transition.
 
 
+![tansient](https://github.com/user-attachments/assets/d738a51c-3a1d-448f-93ad-e273824c8378)
+
+
+This circuit employs TSMC 180nm CMOS technology, featuring transistors with a 180nm channel length for moderate speed and power efficiency. The CMOS inverter consists of an NMOS and PMOS pair, powered by a 1.8V supply voltage, and driven by a sinusoidal input signal (0.9V ± 50mV, 1kHz). The transient response plot shows an inverted output waveform, but it does not fully swing between 0V and 1.8V. This limited swing could be due to weak transistor drive strength or insufficient input voltage swing. To improve performance, increasing the W/L ratio of the transistors and the input voltage swing can enhance switching behavior and achieve a full rail-to-rail output.
 
 
 
