@@ -1,0 +1,3 @@
+analysis of current mirror circuit.
+
+  The current mirror circuit is a fundamental building block in IC design, ensuring that multiple transistors receive a stable and consistent biasing current. In an ideal world, each transistor would be biased using a dedicated current source to guarantee stability, but that's not practical in most cases. Instead, engineers rely on the current mirror approach, where the design cleverly replicates a reference current across multiple transistors. By carefully adjusting the width-to-length ((W/L)) ratio of each transistor, we can control the amount of drain current ((I_D)) flowing through each device, ensuring proper operation and balance within the circuit.
