@@ -1,7 +1,7 @@
 # Lincircuit
 Linear integrated circuit design and simulation.
 
-INTRODUCTION:
+INTRODUCTION
 
 CS Amplifier: A Common Source (CS) amplifier is a fundamental MOSFET-based amplifier configuration commonly used in analog electronics. It offers voltage amplification with moderate gain and functions similarly to the common-emitter amplifier in BJTs.
 
